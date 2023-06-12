@@ -1,0 +1,16 @@
+{
+  "name": "aws-auth",
+  "version": "1.0.0",
+  "description": "Servicio auth univo subastas",
+  "keywords": [
+    "auth"
+  ],
+  "author": "Jaime Guevara",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
