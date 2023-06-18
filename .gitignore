@@ -11,4 +11,4 @@ jspm_packages
 # PEM files
 secret.pem
 
-curl.lua
+curl.curl
